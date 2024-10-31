@@ -1,0 +1,44 @@
+.link-button{
+	margin:5px;
+}
+.ads_list_table{
+	border:solid 1px #E5E5E5;
+	box-shadow: 2px 2px #E5E5E5;
+}
+.ads_list_table thead{
+	margin:0px;
+	font-size:14px;
+	color:#00A0D2;
+	background-color: #ffffff;
+}
+.ads_list_table thead td{
+	border-width: 1px 0px;
+	border-color: #E5E5E5;
+   	border-style: solid;
+}
+.ads_list_table tfoot{
+	margin:0px;
+	font-size:14px;
+	color:#00A0D2;
+	background-color: #ffffff;
+}
+.ads_list_table tfoot td{
+	border-width: 1px 0px;
+	border-color: #E5E5E5;
+   	border-style: solid;
+}
+.ads_list_table td:hover{
+	color:#00C6C6;
+}
+.delete_button{
+	color:#DC3232;
+}
+.delete_button:hover{
+	color:#a82121;
+}
+.ad_list_col_0{
+	background-color:#F9F9F9;
+}
+.ad_list_col_1{
+	background-color:#ffffff;
+}
